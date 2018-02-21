@@ -3,7 +3,7 @@ import by.gsu.asoilab.Converter;
 
 public class BusinessTrip {
 	
-	 private final int rate = 707;
+	 private final int rate = 777;
 	 private String account;
 	 private int transport;
 	 private int days;
