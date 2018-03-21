@@ -1,0 +1,14 @@
+package by.gsu.pms;
+
+public class Purchase {
+	
+	private final int price = 500; 
+	private String name;
+	
+	public Purchase(String name, String day, int num) {
+		
+	}
+	
+	
+}
+

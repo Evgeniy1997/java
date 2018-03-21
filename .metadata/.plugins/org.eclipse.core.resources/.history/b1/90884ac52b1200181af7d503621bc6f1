@@ -1,0 +1,11 @@
+package by.gsu.pms;
+
+import java.math.BigDecimal;
+
+public class Conversion {
+	
+	public static void BigDecimal converter(){
+		
+	}
+		
+}

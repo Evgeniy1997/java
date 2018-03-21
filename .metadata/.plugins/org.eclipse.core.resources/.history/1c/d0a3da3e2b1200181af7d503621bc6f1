@@ -1,0 +1,21 @@
+import by.gsu.pms.Purchase;
+import by.gsu.pms.WeekDays;
+
+
+public class Runner {
+
+	public static void main(String[] args) {
+		
+		Purchase[] pur = new Purchase[] {
+				new Purchase(WeekDays.MONDAY, 10),
+				new Purchase(WeekDays.SATURDAY, 13),
+				new Purchase(WeekDays.WEDNESDAY, 18),
+				new Purchase(WeekDays.TUESDAY, 120),
+				new Purchase(WeekDays.THURSDAY, 99)
+		};
+		
+		
+
+	}
+
+}

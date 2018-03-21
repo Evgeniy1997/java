@@ -1,0 +1,15 @@
+import by.gsu.pms.Purchase;
+import by.gsu.pms.WeekDays;
+
+
+public class Runner {
+
+	public static void main(String[] args) {
+		
+		Purchase[] pur = new Purchase[] {
+				new Purchase(10, WeekDays.MONDAY);
+		};
+
+	}
+
+}
